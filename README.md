@@ -4,9 +4,13 @@
 > >
 
 ```js
-react-native       react      react-navigation     redux 
-expo               javascript                react-redux
+React Native                  Expo    
+React      
+React Navigation     
+Redux 
+             Javascript                React-Redux
 ```
+
 > ## 1. Start
 > > [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native/blob/main/video/1-start.gif)](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
 
