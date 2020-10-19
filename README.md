@@ -4,8 +4,8 @@
 > >
 
 ```js
-React Native                  React                             Redux                          React-Redux
-Expo                          Javascript                        React Navigation                                             
+React Native        React                Redux                  React-Redux
+Expo                Javascript           React Navigation                                             
 ```
 
 > ## 1. Start
